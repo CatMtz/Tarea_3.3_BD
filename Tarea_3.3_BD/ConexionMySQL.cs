@@ -20,7 +20,7 @@ namespace BackEnd
                 String puerto = "3306";
                 String usuario = "root";
                 String password = "root";
-                String database = "Web2Regu";
+                String database = "Tarea3_3";
                 //Cadena de conexion
 
                 return String.Format("server={0};port={1};user id={2}; password={3}; database={4}", servidor, puerto, usuario, password, database);
